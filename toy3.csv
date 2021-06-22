@@ -1,0 +1,203 @@
+Age,Gender,Occupation,Marital_status,count,days,money,Mode of travel,state
+17-30,Female,Student,Unmarried,5,5,"10,000.00",Railways,Jharkhand
+17-30,Female,Other,Unmarried,2,4,"40,000.00",Airways,Uttarakhand
+17-30,Female,Student,Unmarried,3,6,"40,000.00",Railways,Goa
+17-30,Female,Student,Unmarried,1,4,"20,000.00",Railways,Goa
+17-30,Female,Student,Unmarried,3,5,"30,000.00",Airways,Uttarakhand
+17-30,Female,Student,Unmarried,5,7,"50,000.00",Railways,Gujarat
+17-30,Female,Student,Unmarried,1,2,"10,000.00",Roadways,Maharashtra
+17-30,Male,Student,Unmarried,5,7,"20,000.00",Railways,Maharashtra
+45-80,Male,Employed,Married,5,7,"20,000.00",Railways,Goa
+17-30,Female,Employed,Unmarried,1,2,"10,000.00",Airways,Tamil Nadu
+45-80,Female,Home Maker,Married,5,7,"20,000.00",Railways,Maharashtra
+17-30,Female,Student,Unmarried,1,5,"20,000.00",Roadways,Maharashtra
+17-30,Female,Student,Unmarried,2,4,"10,000.00",Railways,Goa
+13-16,Female,Student,Unmarried,2,4,"20,000.00",Railways,Goa
+17-30,Female,Student,Unmarried,1,4,"10,000.00",Railways,Goa
+17-30,Female,Student,Unmarried,5,7,"20,000.00",Airways,Madhya Pradesh
+17-30,Female,Student,Unmarried,1,7,"20,000.00",Railways,Gujarat
+17-30,Female,Student,Unmarried,2,4,"30,000.00",Airways,Chhattisgarh
+17-30,Female,Student,Unmarried,5,7,"10,000.00",Railways,Gujarat
+17-30,Female,Student,Unmarried,1,3,"50,000.00",Airways,Kerala
+17-30,Female,Student,Unmarried,4,6,"20,000.00",Railways,Madhya Pradesh
+17-30,Male,Employed,Married,5,2,"10,000.00",Airways,Maharashtra
+17-30,Female,Student,Unmarried,1,4,"30,000.00",Railways,Jammu and Kashmir
+17-30,Female,Student,Unmarried,1,7,"50,000.00",Airways,Uttar Pradesh
+17-30,Female,Student,Unmarried,1,3,"10,000.00",Railways,Punjab
+17-30,Female,Student,Unmarried,3,7,"40,000.00",Airways,Gujarat
+17-30,Female,Student,Unmarried,5,5,"50,000.00",Airways,Tamil Nadu
+17-30,Female,Student,Unmarried,5,7,"40,000.00",Railways,Bihar
+31-45,Female,Home Maker,Married,2,6,"40,000.00",Airways,Karnataka
+17-30,Female,Student,Unmarried,5,7,"30,000.00",Railways,Madhya Pradesh
+17-30,Male,Student,Unmarried,3,7,"20,000.00",Railways,Himachal Pradesh
+17-30,Female,Student,Unmarried,1,5,"30,000.00",Railways,Uttarakhand
+17-30,Female,Student,Unmarried,2,3,"20,000.00",Railways,Maharashtra
+17-30,Female,Student,Unmarried,1,7,"50,000.00",Railways,Himachal Pradesh
+17-30,Female,Student,Unmarried,5,7,"10,000.00",Roadways,Maharashtra
+45-80,Female,Home Maker,Married,1,7,"30,000.00",Railways,Uttarakhand
+45-80,Female,Home Maker,Married,2,6,"30,000.00",Airways,Goa
+45-80,Male,Home Maker,Married,1,7,"30,000.00",Railways,Gujarat
+45-80,Female,Home Maker,Married,3,7,"10,000.00",Railways,Chhattisgarh
+17-30,Female,Student,Unmarried,1,3,"50,000.00",Airways,Sikkim
+45-80,Female,Home Maker,Married,1,4,"10,000.00",Airways,Goa
+45-80,Female,Home Maker,Married,2,3,"20,000.00",Railways,Jammu and Kashmir
+45-80,Female,Home Maker,Married,2,7,"30,000.00",Railways,Uttar Pradesh
+17-30,Female,Student,Unmarried,1,4,"10,000.00",Railways,Jammu and Kashmir
+45-80,Female,Home Maker,Married,2,4,"10,000.00",Railways,Jammu and Kashmir
+45-80,Female,Home Maker,Married,3,4,"40,000.00",Airways,Goa
+17-30,Female,Student,Unmarried,5,7,"10,000.00",Roadways,Uttar Pradesh
+45-80,Male,Employed,Married,4,5,"20,000.00",Railways,Maharashtra
+45-80,Male,Employed,Married,5,7,"30,000.00",Railways,Goa
+45-80,Male,Employed,Married,2,5,"10,000.00",Railways,Gujarat
+45-80,Male,Employed,Married,4,6,"10,000.00",Railways,Rajasthan
+45-80,Male,Employed,Married,1,2,"10,000.00",Railways,Punjab
+45-80,Male,Employed,Married,1,3,"10,000.00",Railways,Himachal Pradesh
+45-80,Male,Employed,Married,1,3,"10,000.00",Railways,Arunachal Pradesh
+17-30,Male,Student,Unmarried,2,4,"20,000.00",Railways,Gujarat
+17-30,Female,Student,Unmarried,5,7,"20,000.00",Railways,Maharashtra
+17-30,Female,Home Maker,Married,2,6,"50,000.00",Roadways,Goa
+17-30,Female,Student,Unmarried,5,7,"20,000.00",Railways,Karnataka
+17-30,Male,Student,Unmarried,3,5,"40,000.00",Railways,Maharashtra
+17-30,Male,Student,Unmarried,4,3,"10,000.00",Roadways,Goa
+17-30,Male,Student,Unmarried,2,6,"50,000.00",Railways,Maharashtra
+17-30,Female,Employed,Married,3,2,"20,000.00",Airways,Madhya Pradesh
+17-30,Male,Student,Unmarried,1,7,"50,000.00",Railways,Jammu and Kashmir
+31-45,Female,Home Maker,Married,5,7,"50,000.00",Railways,Maharashtra
+17-30,Female,Home Maker,Married,2,4,"10,000.00",Railways,Goa
+17-30,Male,Student,Unmarried,5,7,"50,000.00",Roadways,Bihar
+17-30,Male,Employed,Married,4,3,"10,000.00",Railways,Madhya Pradesh
+17-30,Female,Student,Unmarried,5,7,"10,000.00",Roadways,Gujarat
+17-30,Female,Student,Unmarried,2,7,"10,000.00",Railways,Madhya Pradesh
+17-30,Female,Student,Unmarried,5,7,"10,000.00",Roadways,Maharashtra
+17-30,Female,Student,Unmarried,2,3,"30,000.00",Airways,Goa
+17-30,Male,Employed,Unmarried,2,4,"10,000.00",Railways,Goa
+13-16,Female,Student,Unmarried,5,7,"50,000.00",Airways,Tamil Nadu
+17-30,Male,Student,Unmarried,1,4,"30,000.00",Railways,Jammu and Kashmir
+45-80,Male,Employed,Married,5,5,"20,000.00",Railways,Goa
+17-30,Female,Employed,Unmarried,5,7,"10,000.00",Railways,Uttar Pradesh
+45-80,Female,Home Maker,Married,5,7,"10,000.00",Railways,Uttar Pradesh
+17-30,Male,Student,Unmarried,2,7,"10,000.00",Roadways,Maharashtra
+17-30,Female,Employed,Unmarried,2,7,"10,000.00",Roadways,Rajasthan
+13-16,Male,Student,Unmarried,5,7,"30,000.00",Railways,Uttar Pradesh
+13-16,Male,Student,Unmarried,1,5,"20,000.00",Airways,Goa
+31-45,Male,Other,Married,4,5,"30,000.00",Airways,Jammu and Kashmir
+17-30,Female,Home Maker,Married,2,3,"20,000.00",Roadways,Goa
+17-30,Female,Home Maker,Married,1,2,"20,000.00",Railways,Punjab
+17-30,Female,Home Maker,Married,1,2,"20,000.00",Railways,Jammu and Kashmir
+17-30,Female,Home Maker,Married,5,3,"30,000.00",Roadways,Maharashtra
+17-30,Female,Student,Unmarried,5,7,"20,000.00",Railways,Karnataka
+17-30,Female,Employed,Married,5,7,"20,000.00",Railways,Kerala
+17-30,Male,Student,Unmarried,5,7,"10,000.00",Railways,Kerala
+45-80,Female,Home Maker,Married,1,4,"20,000.00",Railways,Goa
+45-80,Male,Retired,Married,1,4,"20,000.00",Railways,Goa
+31-45,Male,Employed,Unmarried,2,4,"30,000.00",Airways,Uttarakhand
+45-80,Female,Home Maker,Married,5,7,"50,000.00",Airways,Madhya Pradesh
+17-30,Female,Student,Unmarried,5,7,"50,000.00",Railways,Nagaland
+31-45,Female,Employed,Unmarried,5,7,"50,000.00",Airways,Maharashtra
+31-45,Female,Home Maker,Married,2,5,"50,000.00",Airways,Kerala
+31-45,Female,Home Maker,Married,4,5,"50,000.00",Airways,Himachal Pradesh
+17-30,Female,Student,Unmarried,2,7,"20,000.00",Roadways,Madhya Pradesh
+17-30,Female,Student,Unmarried,1,7,"50,000.00",Railways,Jammu and Kashmir
+17-30,Male,Employed,Unmarried,5,3,"20,000.00",Airways,Goa
+17-30,Female,Student,Unmarried,2,3,"10,000.00",Railways,Gujarat
+17-30,Female,Home Maker,Married,5,7,"50,000.00",Railways,Uttar Pradesh
+17-30,Male,Employed,Unmarried,5,4,"50,000.00",Airways,Goa
+17-30,Male,Employed,Unmarried,3,2,"20,000.00",Railways,Madhya Pradesh
+17-30,Female,Student,Unmarried,3,5,"20,000.00",Railways,Rajasthan
+17-30,Male,Student,Unmarried,1,4,"20,000.00",Roadways,Goa
+17-30,Female,Student,Unmarried,5,6,"20,000.00",Airways,Goa
+45-80,Female,Employed,Married,5,7,"40,000.00",Airways,Tamil Nadu
+45-80,Male,Retired,Married,5,7,"20,000.00",Railways,Tamil Nadu
+17-30,Male,Student,Unmarried,4,7,"20,000.00",Railways,Chhattisgarh
+17-30,Female,Other,Unmarried,1,4,"20,000.00",Railways,Goa
+17-30,Male,Student,Unmarried,4,7,"20,000.00",Railways,Orissa
+45-80,Female,Home Maker,Married,2,4,"30,000.00",Airways,Uttarakhand
+17-30,Male,Student,Unmarried,2,3,"20,000.00",Airways,Rajasthan
+17-30,Male,Student,Unmarried,2,2,"10,000.00",Roadways,Uttar Pradesh
+17-30,Female,Student,Unmarried,5,7,"10,000.00",Railways,Punjab
+45-80,Female,Home Maker,Married,2,3,"30,000.00",Railways,Himachal Pradesh
+45-80,Female,Home Maker,Married,2,5,"20,000.00",Railways,Maharashtra
+17-30,Female,Home Maker,Married,1,3,"20,000.00",Railways,Kerala
+17-30,Female,Home Maker,Married,3,4,"40,000.00",Railways,Goa
+17-30,Female,Home Maker,Married,1,2,"20,000.00",Railways,Telangana
+17-30,Female,Student,Unmarried,5,7,"20,000.00",Roadways,Gujarat
+17-30,Male,Other,Unmarried,3,6,"30,000.00",Railways,Jammu and Kashmir
+45-80,Male,Other,Married,2,2,"10,000.00",Railways,Andhra Pradesh
+17-30,Male,Student,Unmarried,1,6,"20,000.00",Roadways,Goa
+17-30,Male,Employed,Married,1,7,"20,000.00",Railways,Kerala
+17-30,Male,Employed,Married,1,7,"10,000.00",Railways,Himachal Pradesh
+31-45,Female,Employed,Married,4,7,"20,000.00",Airways,Himachal Pradesh
+17-30,Male,Employed,Married,2,6,"30,000.00",Roadways,Rajasthan
+17-30,Male,Student,Unmarried,2,7,"10,000.00",Railways,Karnataka
+17-30,Male,Employed,Married,2,4,"30,000.00",Railways,Kerala
+17-30,Male,Student,Unmarried,2,3,"10,000.00",Railways,Goa
+17-30,Female,Home Maker,Married,3,6,"20,000.00",Railways,Gujarat
+31-45,Female,Home Maker,Unmarried,3,4,"20,000.00",Railways,Gujarat
+31-45,Female,Home Maker,Married,2,2,"30,000.00",Airways,Jammu and Kashmir
+45-80,Female,Home Maker,Unmarried,3,4,"30,000.00",Airways,Rajasthan
+17-30,Female,Home Maker,Married,2,5,"10,000.00",Railways,Goa
+45-80,Female,Home Maker,Married,3,3,"30,000.00",Airways,Goa
+17-30,Female,Employed,Unmarried,1,4,"20,000.00",Railways,Goa
+45-80,Male,Employed,Married,5,5,"50,000.00",Airways,Tamil Nadu
+17-30,Female,Student,Unmarried,2,4,"20,000.00",Airways,Jammu and Kashmir
+17-30,Female,Employed,Unmarried,5,7,"50,000.00",Railways,Uttar Pradesh
+17-30,Female,Student,Unmarried,1,4,"10,000.00",Railways,Rajasthan
+17-30,Female,Student,Unmarried,5,7,"50,000.00",Railways,Bihar
+17-30,Female,Student,Unmarried,5,7,"30,000.00",Airways,Gujarat
+17-30,Female,Home Maker,Married,4,4,"40,000.00",Airways,Goa
+17-30,Female,Employed,Unmarried,1,5,"10,000.00",Railways,Orissa
+17-30,Female,Employed,Unmarried,3,5,"20,000.00",Roadways,Goa
+17-30,Female,Employed,Married,4,7,"20,000.00",Railways,Karnataka
+45-80,Male,Employed,Married,5,4,"10,000.00",Roadways,Kerala
+45-80,Male,Employed,Married,1,7,"50,000.00",Airways,Jammu and Kashmir
+45-80,Male,Employed,Married,5,7,"40,000.00",Railways,Karnataka
+45-80,Male,Employed,Married,3,4,"30,000.00",Roadways,Andhra Pradesh
+45-80,Male,Employed,Married,5,7,"30,000.00",Airways,Rajasthan
+31-45,Male,Employed,Married,5,5,"10,000.00",Railways,Maharashtra
+13-16,Male,Student,Unmarried,1,3,"10,000.00",Railways,Maharashtra
+17-30,Female,Other,Unmarried,3,5,"10,000.00",Railways,Madhya Pradesh
+17-30,Female,Home Maker,Married,5,5,"20,000.00",Railways,Uttar Pradesh
+17-30,Female,Home Maker,Married,2,4,"10,000.00",Railways,Gujarat
+17-30,Male,Home Maker,Married,2,2,"20,000.00",Railways,Rajasthan
+17-30,Male,Employed,Married,2,4,"20,000.00",Railways,Bihar
+17-30,Male,Employed,Married,3,6,"20,000.00",Railways,Uttar Pradesh
+31-45,Male,Home Maker,Married,2,4,"40,000.00",Airways,Manipur
+31-45,Female,Home Maker,Married,1,3,"10,000.00",Railways,Maharashtra
+17-30,Female,Student,Unmarried,2,4,"20,000.00",Railways,Chhattisgarh
+45-80,Female,Retired,Married,4,7,"20,000.00",Railways,Goa
+13-16,Female,Student,Unmarried,4,6,"30,000.00",Railways,Asom (Assam)
+45-80,Female,Retired,Married,2,4,"20,000.00",Railways,Gujarat
+17-30,Male,Student,Unmarried,5,5,"20,000.00",Railways,Madhya Pradesh
+31-45,Male,Employed,Unmarried,1,3,"10,000.00",Railways,Gujarat
+45-80,Female,Retired,Married,2,7,"20,000.00",Railways,Bihar
+45-80,Male,Retired,Married,2,3,"30,000.00",Airways,Mizoram
+31-45,Male,Employed,Married,2,3,"20,000.00",Railways,Himachal Pradesh
+45-80,Female,Retired,Married,1,7,"10,000.00",Railways,Madhya Pradesh
+45-80,Female,Retired,Married,1,7,"20,000.00",Railways,Madhya Pradesh
+45-80,Female,Retired,Married,1,2,"10,000.00",Railways,Karnataka
+45-80,Male,Employed,Married,2,3,"20,000.00",Railways,Karnataka
+45-80,Male,Employed,Married,2,2,"20,000.00",Railways,Jammu and Kashmir
+45-80,Male,Employed,Married,1,3,"20,000.00",Railways,Sikkim
+17-30,Female,Home Maker,Married,2,5,"20,000.00",Railways,Uttar Pradesh
+17-30,Male,Employed,Unmarried,2,3,"10,000.00",Roadways,Goa
+17-30,Female,Home Maker,Married,2,3,"10,000.00",Railways,Kerala
+17-30,Female,Employed,Married,4,5,"40,000.00",Airways,Uttar Pradesh
+17-30,Male,Student,Unmarried,3,5,"40,000.00",Railways,Gujarat
+45-80,Male,Other,Married,5,7,"50,000.00",Airways,Maharashtra
+45-80,Female,Employed,Married,3,3,"10,000.00",Railways,Maharashtra
+17-30,Female,Employed,Unmarried,3,4,"20,000.00",Airways,Goa
+31-45,Female,Other,Married,3,4,"20,000.00",Airways,Rajasthan
+31-45,Female,Employed,Married,1,2,"10,000.00",Railways,Kerala
+17-30,Female,Employed,Unmarried,4,5,"30,000.00",Railways,Maharashtra
+17-30,Female,Other,Unmarried,3,4,"20,000.00",Railways,Maharashtra
+31-45,Female,Employed,Married,3,3,"20,000.00",Railways,Maharashtra
+31-45,Female,Employed,Married,2,3,"20,000.00",Railways,Uttar Pradesh
+17-30,Female,Employed,Unmarried,4,4,"20,000.00",Railways,Goa
+31-45,Male,Employed,Married,3,2,"20,000.00",Railways,Goa
+17-30,Female,Student,Unmarried,5,4,"20,000.00",Roadways,Maharashtra
+45-80,Female,Home Maker,Married,5,5,"10,000.00",Roadways,Maharashtra
+45-80,Female,Home Maker,Married,3,6,"30,000.00",Railways,Maharashtra
+17-30,Female,Student,Unmarried,4,5,"30,000.00",Railways,Maharashtra
+17-30,Female,Student,Unmarried,2,5,"10,000.00",Railways,Maharashtra
+17-30,Male,Other,Unmarried,1,3,"10,000.00",Railways,Gujarat
+17-30,Male,Student,Unmarried,5,7,"10,000.00",Railways,Maharashtra

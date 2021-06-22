@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+        body {
+            font-family: "Lucida Console", "Courier New", monospace, cursive;
+            font-family: cursive;
+            font-size: medium;
+            background-color: rgb(160, 0, 32);
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        /* Add padding to containers */
+        .container {
+            padding: 16px;
+            background-color: white;
+        }
+
+        /* Full-width input fields */
+        input[type="text"],
+        input[type="password"] {
+            width: 100%;
+            padding: 15px;
+            margin: 5px 0 22px 0;
+            display: inline-block;
+            border: none;
+            background: #f1f1f1;
+        }
+
+        input[type="text"]:focus,
+        input[type="password"]:focus {
+            background-color: #ddd;
+            outline: none;
+        }
+
+        /* Overwrite default styles of hr */
+        hr {
+            border: 1px solid #f1f1f1;
+            margin-bottom: 25px;
+        }
+
+        /* Set a style for the submit button */
+        .registerbtn {
+            background-color: #04aa6d;
+            color: white;
+            padding: 16px 20px;
+            margin: 8px 0;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+            opacity: 0.9;
+        }
+
+        .registerbtn:hover {
+            opacity: 1;
+        }
+
+        /* Add a blue text color to links */
+        a {
+            color: dodgerblue;
+        }
+
+        /* Set a grey background color and center the text of the "sign in" section */
+    </style>
+</head>
+
+<body>
+    <form action="/img" method="POST">
+        <div class="container">
+            <h1>Welcome</h1>
+            <p>
+                Hello everyone😁!! Welcome to विविधEkyam Bharat(Unity in diversity of
+                India), enjoy your virtual tour of India. Hope this journey will help
+                you explore Indian states and their culture, their traditions and
+                their cuisine. Thank you!
+            </p>
+            <hr />
+
+            <p><b>Please select your Age:</b></p>
+            <input type="radio" id="age1" name="age" value="1216" />
+            <label for="age1">12-16</label><br />
+            <input type="radio" id="age2" name="age" value="1730" />
+            <label for="age2">17-30</label><br />
+            <input type="radio" id="age3" name="age" value="3145" />
+            <label for="age3">31-45</label><br />
+            <input type="radio" id="age4" name="age" value="4580" />
+            <label for="age4">45+</label><br />
+
+            <p><b>Please select your Gender:</b></p>
+            <input type="radio" id="male" name="gender" value="Male" />
+            <label for="male">Male</label><br />
+            <input type="radio" id="female" name="gender" value="Female" />
+            <label for="female">Female</label><br />
+            <input type="radio" id="other" name="gender" value="Other" />
+            <label for="other">Other</label>
+            <p><b>Marital Status:</b></p>
+            <input type="radio" id="male" name="marital" value="Married" />
+            <label for="Married">Married</label><br />
+            <input type="radio" id="female" name="marital" value="Unmarried" />
+            <label for="Unmarried">Unmarried</label><br />
+            
+
+            <p><b>Please select your Occuption:</b></p>
+            <input type="radio" id="occ1" name="Occuption" value="Student" />
+            <label for="occ1">Student</label><br />
+            <input type="radio" id="occ2" name="Occuption" value="Employed" />
+            <label for="occ2">Employed</label><br />
+            <input type="radio" id="occ3" name="Occuption" value="Home Maker" />
+            <label for="occ3">Home Maker</label><br />
+            <input type="radio" id="occ4" name="Occuption" value="Retired" />
+            <label for="occ4">Retired</label><br />
+            <input type="radio" id="occ5" name="Occuption" value="Other" />
+            <label for="occ5">Other</label><br />
+
+            <p><b>Please select number of times you have visited a state:</b></p>
+            <input type="radio" id="num1" name="Number" value="1" />
+            <label for="num1">1</label><br />
+            <input type="radio" id="num2" name="Number" value="2" />
+            <label for="num2">2</label><br />
+            <input type="radio" id="num3" name="Number" value="3" />
+            <label for="num3">3</label><br />
+            <input type="radio" id="num4" name="Number" value="4" />
+            <label for="num4">4</label><br />
+            <input type="radio" id="num5" name="Number" value="5" />
+            <label for="num5">5 or more</label><br />
+
+            <p><b>Please select average number of days spent :</b></p>
+            <input type="radio" id="avg1" name="Average" value="2" />
+            <label for="avg1">2</label><br />
+            <input type="radio" id="avg2" name="Average" value="3" />
+            <label for="avg2">3</label><br />
+            <input type="radio" id="avg3" name="Average" value="4" />
+            <label for="avg3">4</label><br />
+            <input type="radio" id="avg4" name="Average" value="5" />
+            <label for="avg4">5</label><br />
+            <input type="radio" id="avg5" name="Average" value="6" />
+            <label for="avg5">6</label><br />
+            <input type="radio" id="avg6" name="Average" value="7" />
+            <label for="avg6">More than week</label><br />
+
+
+            <p><b>Please select average money spent :</b></p>
+            <input type="radio" id="mon1" name="Money" value="10000" />
+            <label for="mon1">INR 10,000</label><br />
+            <input type="radio" id="mon" name="Money" value="20000" />
+            <label for="mon">INR 20,000</label><br />
+            <input type="radio" id="mon" name="Money" value="30000" />
+            <label for="mon">INR 30,000</label><br />
+            <input type="radio" id="mon" name="Money" value="40000" />
+            <label for="mon">INR 40,000</label><br />
+            <input type="radio" id="mon" name="Money" value="50000" />
+            <label for="mon">INR 50,000 or more</label><br />
+
+            <p><b>Please select the mode of transport :</b></p>
+            <input type="radio" id="trans1" name="Transport" value="Airways" />
+            <label for="trans1">Airways</label><br />
+            <input type="radio" id="trans2" name="Transport" value="Railways" />
+            <label for="trans2">Railways</label><br />
+            <input type="radio" id="trans3" name="Transport" value="Roadways" />
+            <label for="trans3">Roadways</label><br />
+
+            <p><b>Please enter you native place :</b></p>
+            <input type="text" id="fname" name="fname" value="  "><br>
+
+            <p><b>Please select which state you want to visit :</b></p>
+            <select name="shipping" id="shipping">
+                <option value="Andhra Pradesh">Andhra Pradesh</option>
+                <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+                <option value="Assam">Assam</option>
+                <option value="Bihar">Bihar</option>
+                <option value="Chhattisgarh">Chhattisgarh</option>
+                <option value="Goa">Goa</option>
+                <option value="Gujarat">Gujarat</option>
+                <option value="Haryana">Haryana</option>
+                <option value="Himachal Pradesh">Himachal Pradesh</option>
+                <option value="Jharkhand">Jharkhand</option>
+                <option value="Karnataka">Karnataka</option>
+                <option value="Kerala">Kerala</option>
+                <option value="Madhya Pradesh">Madhya Pradesh</option>
+                <option value="Maharashtra">Maharashtra</option>
+                <option value="Manipur">Manipur</option>
+                <option value="Meghalaya">Meghalaya</option>
+                <option value="Mizoram">Mizoram</option>
+                <option value="Nagaland">Nagaland</option>
+                <option value="Odisha">Odisha</option>
+                <option value="Punjab">Punjab</option>
+                <option value="Rajasthan">Rajasthan</option>
+                <option value="Sikkim">Sikkim</option>
+                <option value="Tamil Nadu">Tamil Nadu</option>
+                <option value="Telangana">Telangana</option>
+                <option value="Tripura">Tripura</option>
+                <option value="Uttar Pradesh">Uttar Pradesh</option>
+                <option value="Uttarakhand">Uttarakhand</option>
+                <option value="West Bengal">West Bengal</option>
+            </select>
+
+            <button type="submit" class="registerbtn">Submit</button>
+        </div>
+
+    </form>
+</body>
+
+</html>
